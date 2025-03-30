@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     fetch(`data/class${classnum}.json`).then(response => response.json()).then(data => {
         let allquestions = data.quiz;
         let heading = document.querySelector("h1");
-        heading.innerText = `👨‍🎓 A Quiz for Class ${data.class} 👩‍🎓`;
+        heading.innerText = `👨‍🎓Class ${data.class} Quiz👩‍🎓`;
         let quizbody = document.querySelector(".containerbox");
 
         quizbody.innerHTML = "";

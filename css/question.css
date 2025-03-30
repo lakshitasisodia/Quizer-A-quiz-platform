@@ -51,16 +51,40 @@
 .submitbutton{
     width: 8rem;
     height: 3rem;
-    text-align: center;
+
     background-color: white;
     margin: 1%;
      border-radius: 2rem;
     cursor: pointer;
     transition: 0.3s ease-in-out;
     border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
   button:hover {
     transform: scale(1.08);
     background: #9bb6d3;
   }
+
+  @media (max-width: 765px) {
+    h2 {
+      font-size: 2rem; 
+    }
+  
+    button {
+      font-size: 0.9rem; 
+    }
+  }
+  
+  @media (max-width: 400px) {
+    h2 {
+      font-size: 1.5rem; 
+    }
+  
+    button {
+      font-size: 0.8rem; 
+    }
+  }
+  

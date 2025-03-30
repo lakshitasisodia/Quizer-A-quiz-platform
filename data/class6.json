@@ -1,0 +1,186 @@
+{
+    "class": "6",
+    "quiz": [
+      {
+        "subject": "Math",
+        "question": "What is the LCM of 12, 18, and 24?",
+        "options": ["36", "48", "72", "96"],
+        "answer": "72"
+      },
+      {
+        "subject": "Math",
+        "question": "If a train travels 240 km in 4 hours, what is its speed in meters per second?",
+        "options": ["15", "16.67", "20", "25"],
+        "answer": "16.67"
+      },
+      {
+        "subject": "Math",
+        "question": "A number is divided by 12 and gives a remainder of 7. What will be the remainder if it is divided by 4?",
+        "options": ["1", "2", "3", "0"],
+        "answer": "3"
+      },
+      {
+        "subject": "Math",
+        "question": "A square and a rectangle have the same perimeter. The side of the square is 10 cm. If the length of the rectangle is 12 cm, what is its width?",
+        "options": ["6 cm", "8 cm", "10 cm", "12 cm"],
+        "answer": "8 cm"
+      },
+      {
+        "subject": "Math",
+        "question": "If the sum of two consecutive even numbers is 90, what are the numbers?",
+        "options": ["42 and 44", "44 and 46", "40 and 50", "38 and 40"],
+        "answer": "44 and 46"
+      },
+      {
+        "subject": "Science",
+        "question": "Which organ in the human body produces bile?",
+        "options": ["Stomach", "Liver", "Pancreas", "Small Intestine"],
+        "answer": "Liver"
+      },
+      {
+        "subject": "Science",
+        "question": "Which planet rotates on its side, making it unique in the solar system?",
+        "options": ["Mars", "Venus", "Neptune", "Uranus"],
+        "answer": "Uranus"
+      },
+      {
+        "subject": "Science",
+        "question": "Which gas is the most abundant in Earth’s atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Nitrogen"
+      },
+      {
+        "subject": "Science",
+        "question": "Which vitamin is produced in the human body when exposed to sunlight?",
+        "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B12"],
+        "answer": "Vitamin D"
+      },
+      {
+        "subject": "Science",
+        "question": "What type of energy transformation occurs in an electric iron?",
+        "options": ["Chemical to Heat", "Electrical to Heat", "Mechanical to Electrical", "Kinetic to Potential"],
+        "answer": "Electrical to Heat"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Who was the first Emperor of the Maurya Dynasty?",
+        "options": ["Chandragupta Maurya", "Ashoka", "Harsha", "Samudragupta"],
+        "answer": "Chandragupta Maurya"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": ["China", "Japan", "India", "South Korea"],
+        "answer": "Japan"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "What was the main purpose of the Great Wall of China?",
+        "options": ["Religious use", "Defense", "Tourism", "Trade"],
+        "answer": "Defense"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which Indian city is known as the 'City of Lakes'?",
+        "options": ["Udaipur", "Jaipur", "Bhopal", "Varanasi"],
+        "answer": "Udaipur"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which famous document was signed in 1215, limiting the power of the English king?",
+        "options": ["Bill of Rights", "Magna Carta", "Constitution of England", "Treaty of Versailles"],
+        "answer": "Magna Carta"
+      },
+      {
+        "subject": "English",
+        "question": "Choose the correctly punctuated sentence:",
+        "options": ["I can't believe it, he said", "I can't believe it! he said.", "I can't believe it,” he said.", "I can't believe it.” he said."],
+        "answer": "I can't believe it,” he said."
+      },
+      {
+        "subject": "English",
+        "question": "Identify the passive voice sentence:",
+        "options": ["She wrote a letter.", "A letter was written by her.", "She is writing a letter.", "She has written a letter."],
+        "answer": "A letter was written by her."
+      },
+      {
+        "subject": "English",
+        "question": "Choose the correct antonym of 'Gloomy':",
+        "options": ["Happy", "Sad", "Dark", "Depressed"],
+        "answer": "Happy"
+      },
+      {
+        "subject": "English",
+        "question": "Which sentence is grammatically correct?",
+        "options": ["The dog chased it's tail.", "The dog chased its tail.", "The dog chase its tail.", "The dog chasing its tail."],
+        "answer": "The dog chased its tail."
+      },
+      {
+        "subject": "English",
+        "question": "What is the correct plural of 'Cactus'?",
+        "options": ["Cactuses", "Cacti", "Cacties", "Cactus'"],
+        "answer": "Cacti"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which of these is an example of an input device?",
+        "options": ["Monitor", "Printer", "Keyboard", "Speaker"],
+        "answer": "Keyboard"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which of the following is NOT a web browser?",
+        "options": ["Google Chrome", "Mozilla Firefox", "Microsoft Word", "Safari"],
+        "answer": "Microsoft Word"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which number system is used in computers?",
+        "options": ["Decimal", "Binary", "Octal", "Hexadecimal"],
+        "answer": "Binary"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which shortcut key is used to refresh a webpage?",
+        "options": ["Ctrl + R", "Ctrl + C", "Ctrl + V", "Ctrl + P"],
+        "answer": "Ctrl + R"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which device is used to store large amounts of data permanently?",
+        "options": ["RAM", "Hard Drive", "Cache Memory", "ROM"],
+        "answer": "Hard Drive"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which is the longest river in India?",
+        "options": ["Yamuna", "Ganga", "Brahmaputra", "Godavari"],
+        "answer": "Ganga"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "answer": "Canberra"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which is the largest mammal on Earth?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+        "answer": "Blue Whale"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which country won the FIFA World Cup in 2018?",
+        "options": ["Germany", "Brazil", "France", "Argentina"],
+        "answer": "France"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Who wrote the famous book 'The Discovery of India'?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "B. R. Ambedkar", "Rabindranath Tagore"],
+        "answer": "Jawaharlal Nehru"
+      }
+    ]
+  }
+  

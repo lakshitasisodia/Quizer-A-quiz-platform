@@ -1,0 +1,185 @@
+{
+  "class": "1",
+  "quiz": [
+    {
+      "subject": "Maths",
+      "question": "What is 5 + 3?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "subject": "Maths",
+      "question": "How many legs does a triangle have?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3"
+    },
+    {
+      "subject": "Maths",
+      "question": "Which number comes after 19?",
+      "options": ["20", "21", "22", "18"],
+      "answer": "20"
+    },
+    {
+      "subject": "Maths",
+      "question": "What is half of 10?",
+      "options": ["2", "5", "8", "6"],
+      "answer": "5"
+    },
+    {
+      "subject": "Maths",
+      "question": "How many sides does a rectangle have?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "subject": "Geography",
+      "question": "What is the name of the planet we live on?",
+      "options": ["Mars", "Earth", "Moon", "Jupiter"],
+      "answer": "Earth"
+    },
+    {
+      "subject": "Geography",
+      "question": "What is the largest ocean in the world?",
+      "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+      "answer": "Pacific"
+    },
+    {
+      "subject": "Geography",
+      "question": "Which is the coldest place on Earth?",
+      "options": ["Sahara Desert", "Antarctica", "Amazon Forest", "Australia"],
+      "answer": "Antarctica"
+    },
+    {
+      "subject": "Geography",
+      "question": "Which season comes after summer?",
+      "options": ["Spring", "Monsoon", "Winter", "Autumn"],
+      "answer": "Autumn"
+    },
+    {
+      "subject": "Geography",
+      "question": "What is the capital of India?",
+      "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+      "answer": "Delhi"
+    },
+    {
+      "subject": "GK",
+      "question": "How many days are there in a week?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "subject": "GK",
+      "question": "What is the national bird of India?",
+      "options": ["Sparrow", "Peacock", "Eagle", "Parrot"],
+      "answer": "Peacock"
+    },
+    {
+      "subject": "GK",
+      "question": "How many colors are there in a rainbow?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "subject": "GK",
+      "question": "What is the fastest land animal?",
+      "options": ["Lion", "Tiger", "Cheetah", "Elephant"],
+      "answer": "Cheetah"
+    },
+    {
+      "subject": "GK",
+      "question": "Which festival is known as the festival of lights?",
+      "options": ["Holi", "Diwali", "Eid", "Christmas"],
+      "answer": "Diwali"
+    },
+    {
+      "subject": "Computer",
+      "question": "Which device is used to type letters on a computer?",
+      "options": ["Mouse", "Keyboard", "Monitor", "Speaker"],
+      "answer": "Keyboard"
+    },
+    {
+      "subject": "Computer",
+      "question": "What do we click to open a file on a computer?",
+      "options": ["Keyboard", "Mouse", "Monitor", "Printer"],
+      "answer": "Mouse"
+    },
+    {
+      "subject": "Computer",
+      "question": "What is the brain of a computer called?",
+      "options": ["CPU", "Mouse", "Keyboard", "Hard disk"],
+      "answer": "CPU"
+    },
+    {
+      "subject": "Computer",
+      "question": "Which part of the computer shows pictures and text?",
+      "options": ["Monitor", "Keyboard", "Mouse", "CPU"],
+      "answer": "Monitor"
+    },
+    {
+      "subject": "Computer",
+      "question": "Which key is used to write capital letters?",
+      "options": ["Enter", "Spacebar", "Shift", "Esc"],
+      "answer": "Shift"
+    },
+    {
+      "subject": "English",
+      "question": "Which word is a noun?",
+      "options": ["Run", "Happy", "Apple", "Quickly"],
+      "answer": "Apple"
+    },
+    {
+      "subject": "English",
+      "question": "What is the opposite of big?",
+      "options": ["Large", "Huge", "Small", "Tall"],
+      "answer": "Small"
+    },
+    {
+      "subject": "English",
+      "question": "How many vowels are there in the English alphabet?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "5"
+    },
+    {
+      "subject": "English",
+      "question": "What is the plural of ‘dog’?",
+      "options": ["Dogs", "Doges", "Dog’s", "Dogz"],
+      "answer": "Dogs"
+    },
+    {
+      "subject": "English",
+      "question": "What is the correct sentence?",
+      "options": ["I is happy.", "I am happy.", "I are happy.", "I be happy."],
+      "answer": "I am happy."
+    },
+    {
+      "subject": "History",
+      "question": "Who was the first Prime Minister of India?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Subhas Chandra Bose"],
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "subject": "History",
+      "question": "What is the national flag of India called?",
+      "options": ["Tricolor", "National Flag", "India Flag", "Ashok Flag"],
+      "answer": "Tricolor"
+    },
+    {
+      "subject": "Science",
+      "question": "What do plants need to grow?",
+      "options": ["Water", "Sunlight", "Air", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "subject": "Science",
+      "question": "What is the main source of light on Earth?",
+      "options": ["Moon", "Fire", "Sun", "Torch"],
+      "answer": "Sun"
+    },
+    {
+      "subject": "Science",
+      "question": "Which animal gives us milk?",
+      "options": ["Dog", "Elephant", "Cow", "Tiger"],
+      "answer": "Cow"
+    }
+  ]
+}

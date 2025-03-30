@@ -1,0 +1,195 @@
+{
+    "class": "11",
+    "quiz": [
+      {
+        "subject": "Math",
+        "question": "If the sum of an infinite geometric series is 8 and its first term is 5, what is the common ratio?",
+        "options": ["3/5", "5/8", "8/5", "5/3"],
+        "answer": "3/5"
+      },
+      {
+        "subject": "Math",
+        "question": "Evaluate the limit: lim x→0 (sin 5x / 3x).",
+        "options": ["5/3", "3/5", "1", "0"],
+        "answer": "5/3"
+      },
+      {
+        "subject": "Math",
+        "question": "If A and B are two independent events with P(A) = 0.6 and P(B) = 0.4, find P(A ∩ B).",
+        "options": ["0.24", "0.30", "0.40", "0.50"],
+        "answer": "0.24"
+      },
+      {
+        "subject": "Math",
+        "question": "Find the derivative of f(x) = x² * e^x.",
+        "options": ["2x * e^x", "x² * e^x + 2x * e^x", "x * e^x", "2x * e^x + x²"],
+        "answer": "x² * e^x + 2x * e^x"
+      },
+      {
+        "subject": "Math",
+        "question": "Solve for x: log₂(x - 1) + log₂(x + 1) = 3.",
+        "options": ["3", "4", "5", "6"],
+        "answer": "3"
+      },
+      {
+        "subject": "Science",
+        "question": "Which quantum number determines the shape of an orbital?",
+        "options": ["Principal (n)", "Azimuthal (l)", "Magnetic (m)", "Spin (s)"],
+        "answer": "Azimuthal (l)"
+      },
+      {
+        "subject": "Science",
+        "question": "Which of the following has the highest bond energy?",
+        "options": ["N₂", "O₂", "H₂", "F₂"],
+        "answer": "N₂"
+      },
+      {
+        "subject": "Science",
+        "question": "Which Newton’s law explains the principle of a rocket launch?",
+        "options": ["First", "Second", "Third", "None"],
+        "answer": "Third"
+      },
+      {
+        "subject": "Science",
+        "question": "Which element is present in hemoglobin and helps in oxygen transport?",
+        "options": ["Copper", "Iron", "Zinc", "Magnesium"],
+        "answer": "Iron"
+      },
+      {
+        "subject": "Science",
+        "question": "What is the SI unit of stress?",
+        "options": ["Pascal", "Newton", "Joule", "Watt"],
+        "answer": "Pascal"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which is the deepest point in the ocean?",
+        "options": ["Mariana Trench", "Puerto Rico Trench", "Java Trench", "Tonga Trench"],
+        "answer": "Mariana Trench"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which type of rock is formed from magma?",
+        "options": ["Igneous", "Sedimentary", "Metamorphic", "Limestone"],
+        "answer": "Igneous"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which current is responsible for keeping Western Europe warm?",
+        "options": ["Humboldt Current", "Gulf Stream", "Canary Current", "Benguela Current"],
+        "answer": "Gulf Stream"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which atmospheric layer contains the ozone layer?",
+        "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+        "answer": "Stratosphere"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which continent has the highest number of time zones?",
+        "options": ["Asia", "Europe", "North America", "Antarctica"],
+        "answer": "Antarctica"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which data structure is used for recursion?",
+        "options": ["Queue", "Stack", "Array", "Linked List"],
+        "answer": "Stack"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which sorting algorithm has the best worst-case time complexity?",
+        "options": ["Merge Sort", "Quick Sort", "Bubble Sort", "Insertion Sort"],
+        "answer": "Merge Sort"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "What is the time complexity of binary search?",
+        "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+        "answer": "O(log n)"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which of the following is a NoSQL database?",
+        "options": ["MySQL", "MongoDB", "PostgreSQL", "SQLite"],
+        "answer": "MongoDB"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "What is the default subnet mask for a Class C IP address?",
+        "options": ["255.0.0.0", "255.255.0.0", "255.255.255.0", "255.255.255.255"],
+        "answer": "255.255.255.0"
+      },
+      {
+        "subject": "English",
+        "question": "Identify the correct usage of the subjunctive mood: 'If I ____ you, I would accept the offer.'",
+        "options": ["am", "was", "were", "be"],
+        "answer": "were"
+      },
+      {
+        "subject": "English",
+        "question": "Choose the correct sentence:",
+        "options": [
+          "She said that she will attend the meeting.",
+          "She said that she would attend the meeting.",
+          "She said that she attends the meeting.",
+          "She said that she attending the meeting."
+        ],
+        "answer": "She said that she would attend the meeting."
+      },
+      {
+        "subject": "English",
+        "question": "What is the synonym of 'aberration'?",
+        "options": ["Deviation", "Consistency", "Agreement", "Prediction"],
+        "answer": "Deviation"
+      },
+      {
+        "subject": "English",
+        "question": "Which of the following is a complex sentence?",
+        "options": [
+          "I love reading books.",
+          "She left because she was tired.",
+          "I bought a pen and a notebook.",
+          "Do you like coffee?"
+        ],
+        "answer": "She left because she was tired."
+      },
+      {
+        "subject": "Psychology",
+        "question": "Which part of the brain is responsible for emotions and memory?",
+        "options": ["Cerebrum", "Hippocampus", "Cerebellum", "Medulla Oblongata"],
+        "answer": "Hippocampus"
+      },
+      {
+        "subject": "Psychology",
+        "question": "What is the term for the tendency to remember the first and last items in a list?",
+        "options": ["Recency effect", "Primacy effect", "Serial position effect", "Chunking"],
+        "answer": "Serial position effect"
+      },
+      {
+        "subject": "Psychology",
+        "question": "Which neurotransmitter is linked to happiness?",
+        "options": ["Dopamine", "Serotonin", "GABA", "Glutamate"],
+        "answer": "Serotonin"
+      },
+      {
+        "subject": "Psychology",
+        "question": "What is cognitive dissonance?",
+        "options": [
+          "The ability to recall memories",
+          "The conflict between beliefs and actions",
+          "The process of learning a new skill",
+          "A mental disorder"
+        ],
+        "answer": "The conflict between beliefs and actions"
+      },
+      {
+        "subject": "Psychology",
+        "question": "Which psychological experiment demonstrated obedience to authority?",
+        "options": ["Stanford Prison Experiment", "Milgram Experiment", "Pavlov's Dogs", "Little Albert Experiment"],
+        "answer": "Milgram Experiment"
+      }
+    ]
+  }
+  

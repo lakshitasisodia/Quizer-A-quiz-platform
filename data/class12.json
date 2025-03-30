@@ -1,0 +1,213 @@
+{
+    "class": "12",
+    "quiz": [
+      {
+        "subject": "Math",
+        "question": "Evaluate: ∫ (x ln x) dx.",
+        "options": [
+          "(x²/2) ln x - x²/4 + C",
+          "x² ln x - x²/2 + C",
+          "(x²/2) ln x - x²/2 + C",
+          "None of the above"
+        ],
+        "answer": "(x²/2) ln x - x²/4 + C"
+      },
+      {
+        "subject": "Math",
+        "question": "Find the determinant of the matrix:\n| 2 3 1 |\n| 4 1 5 |\n| 7 6 2 |",
+        "options": ["-51", "51", "-31", "31"],
+        "answer": "-51"
+      },
+      {
+        "subject": "Math",
+        "question": "If A and B are two square matrices such that AB = I, then what can be said about A and B?",
+        "options": [
+          "A and B are inverse of each other",
+          "A is the inverse of B but B is not the inverse of A",
+          "A and B are singular matrices",
+          "None of the above"
+        ],
+        "answer": "A and B are inverse of each other"
+      },
+      {
+        "subject": "Math",
+        "question": "Find the eigenvalues of the matrix:\n| 1 2 |\n| 2 1 |",
+        "options": ["3, -1", "2, -2", "4, -1", "None of the above"],
+        "answer": "3, -1"
+      },
+      {
+        "subject": "Math",
+        "question": "The solution of the differential equation dy/dx + y tan x = sin x is:",
+        "options": [
+          "y = -cos x + C sec x",
+          "y = cos x + C sec x",
+          "y = sin x + C",
+          "y = sec x + C"
+        ],
+        "answer": "y = -cos x + C sec x"
+      },
+      {
+        "subject": "Science",
+        "question": "Which of the following statements is NOT true about the second law of thermodynamics?",
+        "options": [
+          "Heat flows naturally from hot to cold",
+          "Entropy always increases in a closed system",
+          "A machine can be 100% efficient",
+          "All spontaneous processes increase entropy"
+        ],
+        "answer": "A machine can be 100% efficient"
+      },
+      {
+        "subject": "Science",
+        "question": "Which reaction is responsible for energy production in the Sun?",
+        "options": [
+          "Nuclear fission",
+          "Nuclear fusion",
+          "Radioactive decay",
+          "Beta decay"
+        ],
+        "answer": "Nuclear fusion"
+      },
+      {
+        "subject": "Science",
+        "question": "Which of the following gases is not a greenhouse gas?",
+        "options": ["Methane", "Carbon dioxide", "Oxygen", "Nitrous oxide"],
+        "answer": "Oxygen"
+      },
+      {
+        "subject": "Science",
+        "question": "What is the pH of a 0.01 M HCl solution?",
+        "options": ["2", "3", "4", "5"],
+        "answer": "2"
+      },
+      {
+        "subject": "Science",
+        "question": "Which vitamin is responsible for blood clotting?",
+        "options": ["Vitamin A", "Vitamin B12", "Vitamin K", "Vitamin D"],
+        "answer": "Vitamin K"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which country has the highest number of active volcanoes?",
+        "options": ["Japan", "Indonesia", "Philippines", "Italy"],
+        "answer": "Indonesia"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which desert is the driest place on Earth?",
+        "options": [
+          "Sahara Desert",
+          "Gobi Desert",
+          "Atacama Desert",
+          "Kalahari Desert"
+        ],
+        "answer": "Atacama Desert"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which oceanic current is known to cause El Niño?",
+        "options": [
+          "Kuroshio Current",
+          "Humboldt Current",
+          "Gulf Stream",
+          "Canary Current"
+        ],
+        "answer": "Humboldt Current"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which river is the longest in Asia?",
+        "options": ["Yangtze", "Ganges", "Mekong", "Brahmaputra"],
+        "answer": "Yangtze"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which layer of the Earth contains the most iron?",
+        "options": ["Crust", "Mantle", "Outer core", "Inner core"],
+        "answer": "Inner core"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which algorithm is used for shortest path in a weighted graph?",
+        "options": ["Bubble Sort", "Dijkstra’s Algorithm", "DFS", "Binary Search"],
+        "answer": "Dijkstra’s Algorithm"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which data structure uses LIFO (Last In First Out)?",
+        "options": ["Queue", "Stack", "Heap", "Linked List"],
+        "answer": "Stack"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which protocol is used for secure data transfer over the web?",
+        "options": ["HTTP", "HTTPS", "FTP", "SMTP"],
+        "answer": "HTTPS"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which of the following is NOT an object-oriented programming language?",
+        "options": ["Java", "Python", "C", "C++"],
+        "answer": "C"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which gate is known as the universal gate?",
+        "options": ["AND", "OR", "NAND", "XOR"],
+        "answer": "NAND"
+      },
+      {
+        "subject": "English",
+        "question": "Identify the grammatical error: 'Neither the teacher nor the students was present.'",
+        "options": [
+          "No error",
+          "'was' should be 'were'",
+          "'Neither' should be 'Either'",
+          "'Nor' should be 'Or'"
+        ],
+        "answer": "'was' should be 'were'"
+      },
+      {
+        "subject": "English",
+        "question": "Which literary device is used in: 'The wind whispered through the trees'?",
+        "options": ["Metaphor", "Personification", "Alliteration", "Oxymoron"],
+        "answer": "Personification"
+      },
+      {
+        "subject": "English",
+        "question": "Choose the correct sentence:",
+        "options": [
+          "He did not knew the answer.",
+          "He did not know the answer.",
+          "He do not knew the answer.",
+          "He did not knows the answer."
+        ],
+        "answer": "He did not know the answer."
+      },
+      {
+        "subject": "Psychology",
+        "question": "Which part of the brain controls decision-making and personality?",
+        "options": ["Hippocampus", "Cerebellum", "Frontal Lobe", "Thalamus"],
+        "answer": "Frontal Lobe"
+      },
+      {
+        "subject": "Psychology",
+        "question": "Which psychological disorder is characterized by extreme mood swings?",
+        "options": ["Schizophrenia", "Bipolar Disorder", "OCD", "Anxiety"],
+        "answer": "Bipolar Disorder"
+      },
+      {
+        "subject": "Psychology",
+        "question": "Which psychologist developed the Hierarchy of Needs?",
+        "options": ["Freud", "Skinner", "Maslow", "Piaget"],
+        "answer": "Maslow"
+      },
+      {
+        "subject": "Psychology",
+        "question": "What is the term for learning through observation?",
+        "options": ["Cognitive learning", "Classical conditioning", "Operant conditioning", "Modeling"],
+        "answer": "Modeling"
+      }
+    ]
+  }
+  

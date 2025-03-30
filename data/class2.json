@@ -1,0 +1,185 @@
+{
+  "class": "2",
+  "quiz": [
+    {
+      "subject": "Maths",
+      "question": "What is 12 + 8?",
+      "options": ["18", "20", "22", "24"],
+      "answer": "20"
+    },
+    {
+      "subject": "Maths",
+      "question": "Which number is an even number?",
+      "options": ["7", "9", "12", "15"],
+      "answer": "12"
+    },
+    {
+      "subject": "Maths",
+      "question": "What is 5 multiplied by 3?",
+      "options": ["10", "12", "15", "20"],
+      "answer": "15"
+    },
+    {
+      "subject": "Maths",
+      "question": "How many sides does a pentagon have?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "5"
+    },
+    {
+      "subject": "Maths",
+      "question": "What is the place value of 7 in 374?",
+      "options": ["7", "70", "700", "7000"],
+      "answer": "70"
+    },
+    {
+      "subject": "Geography",
+      "question": "Which is the largest continent?",
+      "options": ["Africa", "Asia", "Europe", "Australia"],
+      "answer": "Asia"
+    },
+    {
+      "subject": "Geography",
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": ["China", "India", "Japan", "Russia"],
+      "answer": "Japan"
+    },
+    {
+      "subject": "Geography",
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Ganges", "Yangtze"],
+      "answer": "Nile"
+    },
+    {
+      "subject": "Geography",
+      "question": "Which is the tallest mountain in the world?",
+      "options": ["K2", "Kilimanjaro", "Mount Everest", "Alps"],
+      "answer": "Mount Everest"
+    },
+    {
+      "subject": "Geography",
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Mars", "Earth", "Venus", "Mercury"],
+      "answer": "Mercury"
+    },
+    {
+      "subject": "General Knowledge",
+      "question": "How many hours are there in a day?",
+      "options": ["12", "24", "36", "48"],
+      "answer": "24"
+    },
+    {
+      "subject": "General Knowledge",
+      "question": "Which festival is known as the 'festival of colors'?",
+      "options": ["Diwali", "Holi", "Christmas", "Eid"],
+      "answer": "Holi"
+    },
+    {
+      "subject": "General Knowledge",
+      "question": "What is the national animal of India?",
+      "options": ["Lion", "Elephant", "Tiger", "Leopard"],
+      "answer": "Tiger"
+    },
+    {
+      "subject": "General Knowledge",
+      "question": "Which sport is known as the 'Gentleman's Game'?",
+      "options": ["Football", "Basketball", "Cricket", "Tennis"],
+      "answer": "Cricket"
+    },
+    {
+      "subject": "Science",
+      "question": "Which gas do humans need to breathe?",
+      "options": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+      "answer": "Oxygen"
+    },
+    {
+      "subject": "Computer",
+      "question": "Which part of the computer is used for clicking and selecting?",
+      "options": ["Keyboard", "Monitor", "Mouse", "Printer"],
+      "answer": "Mouse"
+    },
+    {
+      "subject": "Computer",
+      "question": "Which device is used to print documents?",
+      "options": ["Keyboard", "Monitor", "Printer", "Speaker"],
+      "answer": "Printer"
+    },
+    {
+      "subject": "Computer",
+      "question": "Which part of the computer helps to hear sound?",
+      "options": ["CPU", "Mouse", "Speaker", "Monitor"],
+      "answer": "Speaker"
+    },
+    {
+      "subject": "Computer",
+      "question": "What is used to store data permanently on a computer?",
+      "options": ["RAM", "Hard Drive", "Processor", "Monitor"],
+      "answer": "Hard Drive"
+    },
+    {
+      "subject": "English",
+      "question": "Which of the following is a verb?",
+      "options": ["Dog", "Happy", "Run", "Blue"],
+      "answer": "Run"
+    },
+    {
+      "subject": "English",
+      "question": "Which word is spelled correctly?",
+      "options": ["Cat", "Ct", "Kat", "Caet"],
+      "answer": "Cat"
+    },
+    {
+      "subject": "English",
+      "question": "What is the opposite of 'slow'?",
+      "options": ["Fast", "Big", "Tall", "Small"],
+      "answer": "Fast"
+    },
+    {
+      "subject": "English",
+      "question": "Which is a correct sentence?",
+      "options": ["She is play.", "She playing.", "She plays.", "She are play."],
+      "answer": "She plays."
+    },
+    {
+      "subject": "English",
+      "question": "What is the plural of 'child'?",
+      "options": ["Childs", "Children", "Childes", "Childz"],
+      "answer": "Children"
+    },
+    {
+      "subject": "History",
+      "question": "Who was the Father of the Nation in India?",
+      "options": ["Subhas Chandra Bose", "Mahatma Gandhi", "Jawaharlal Nehru", "Bhagat Singh"],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "subject": "History",
+      "question": "Who was the first President of India?",
+      "options": ["Dr. B.R. Ambedkar", "Rajendra Prasad", "Jawaharlal Nehru", "Sardar Patel"],
+      "answer": "Rajendra Prasad"
+    },
+    {
+      "subject": "Science",
+      "question": "Which part of the plant makes food?",
+      "options": ["Root", "Stem", "Leaf", "Flower"],
+      "answer": "Leaf"
+    },
+    {
+      "subject": "Science",
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": ["Mercury", "Mars", "Venus", "Jupiter"],
+      "answer": "Mars"
+    },
+    {
+      "subject": "Science",
+      "question": "Which body part helps us to smell?",
+      "options": ["Eyes", "Ears", "Nose", "Tongue"],
+      "answer": "Nose"
+    },
+    {
+      "subject": "Science",
+      "question": "Which organ pumps blood in our body?",
+      "options": ["Brain", "Lungs", "Heart", "Kidney"],
+      "answer": "Heart"
+    }
+  ]
+}

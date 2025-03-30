@@ -1,0 +1,186 @@
+{
+    "class": "5",
+    "quiz": [
+      {
+        "subject": "Math",
+        "question": "What is the least common multiple (LCM) of 12 and 18?",
+        "options": ["24", "30", "36", "48"],
+        "answer": "36"
+      },
+      {
+        "subject": "Math",
+        "question": "What is the square root of 144?",
+        "options": ["10", "11", "12", "14"],
+        "answer": "12"
+      },
+      {
+        "subject": "Math",
+        "question": "A triangle has angles measuring 40° and 90°. What is the measure of the third angle?",
+        "options": ["40°", "50°", "60°", "70°"],
+        "answer": "50°"
+      },
+      {
+        "subject": "Math",
+        "question": "What is the value of 5³?",
+        "options": ["15", "25", "125", "225"],
+        "answer": "125"
+      },
+      {
+        "subject": "Math",
+        "question": "What is the perimeter of a rectangle with length 12 cm and width 8 cm?",
+        "options": ["40 cm", "44 cm", "48 cm", "50 cm"],
+        "answer": "40 cm"
+      },
+      {
+        "subject": "Science",
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+        "answer": "Mitochondria"
+      },
+      {
+        "subject": "Science",
+        "question": "Which of these is NOT a type of rock?",
+        "options": ["Igneous", "Sedimentary", "Metamorphic", "Crystalline"],
+        "answer": "Crystalline"
+      },
+      {
+        "subject": "Science",
+        "question": "Which organ in the human body produces insulin?",
+        "options": ["Liver", "Pancreas", "Kidney", "Stomach"],
+        "answer": "Pancreas"
+      },
+      {
+        "subject": "Science",
+        "question": "What gas do plants absorb from the air?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+      },
+      {
+        "subject": "Science",
+        "question": "Which planet has the most moons?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Saturn"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Who was the first Prime Minister of India?",
+        "options": ["Mahatma Gandhi", "Sardar Patel", "Jawaharlal Nehru", "Dr. Rajendra Prasad"],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which Indian state is known as the 'Spice Garden of India'?",
+        "options": ["Kerala", "Tamil Nadu", "Assam", "Punjab"],
+        "answer": "Kerala"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Who is known as the 'Father of the Indian Constitution'?",
+        "options": ["Mahatma Gandhi", "B.R. Ambedkar", "Sardar Patel", "Jawaharlal Nehru"],
+        "answer": "B.R. Ambedkar"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which is the longest river in India?",
+        "options": ["Ganga", "Brahmaputra", "Yamuna", "Godavari"],
+        "answer": "Ganga"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which festival is called the 'Festival of Lights'?",
+        "options": ["Holi", "Eid", "Diwali", "Christmas"],
+        "answer": "Diwali"
+      },
+      {
+        "subject": "English",
+        "question": "What is the plural of 'goose'?",
+        "options": ["Gooses", "Geese", "Goosies", "Geeses"],
+        "answer": "Geese"
+      },
+      {
+        "subject": "English",
+        "question": "Which word is a synonym for 'brave'?",
+        "options": ["Cowardly", "Fearful", "Courageous", "Weak"],
+        "answer": "Courageous"
+      },
+      {
+        "subject": "English",
+        "question": "Which sentence is grammatically correct?",
+        "options": ["She go to school.", "She goes to school.", "She going to school.", "She is go to school."],
+        "answer": "She goes to school."
+      },
+      {
+        "subject": "English",
+        "question": "Which of the following is an adjective?",
+        "options": ["Run", "Quickly", "Beautiful", "Happiness"],
+        "answer": "Beautiful"
+      },
+      {
+        "subject": "English",
+        "question": "Choose the correct spelling.",
+        "options": ["Neccessary", "Necessary", "Nesessary", "Necessay"],
+        "answer": "Necessary"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which key is used to start a new paragraph?",
+        "options": ["Shift", "Enter", "Ctrl", "Alt"],
+        "answer": "Enter"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "What is the full form of 'CPU'?",
+        "options": ["Central Processing Unit", "Computer Processing Unit", "Central Power Unit", "Core Processing Unit"],
+        "answer": "Central Processing Unit"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which device is used to store data permanently?",
+        "options": ["RAM", "Hard Drive", "CPU", "Monitor"],
+        "answer": "Hard Drive"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which of the following is an input device?",
+        "options": ["Printer", "Monitor", "Keyboard", "Speaker"],
+        "answer": "Keyboard"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which of these is an example of software?",
+        "options": ["Mouse", "Windows", "CPU", "Hard Disk"],
+        "answer": "Windows"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which is the smallest ocean in the world?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Arctic Ocean"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which gas is known as laughing gas?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrous Oxide", "Hydrogen"],
+        "answer": "Nitrous Oxide"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Platinum"],
+        "answer": "Diamond"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "answer": "Canberra"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which country is famous for the Eiffel Tower?",
+        "options": ["Italy", "Germany", "France", "Spain"],
+        "answer": "France"
+      }
+    ]
+  }
+  

@@ -1,0 +1,186 @@
+{
+    "class": "7",
+    "quiz": [
+      {
+        "subject": "Math",
+        "question": "If a = 3 and b = -4, what is the value of (a² - b²) / (a + b)?",
+        "options": ["7", "5", "-5", "6"],
+        "answer": "-5"
+      },
+      {
+        "subject": "Math",
+        "question": "Find the value of x: 2x - 3(4 - x) = 5x + 2.",
+        "options": ["2", "4", "5", "6"],
+        "answer": "4"
+      },
+      {
+        "subject": "Math",
+        "question": "A car covers 240 km in 4 hours. If its speed is increased by 20%, how much time will it take to cover the same distance?",
+        "options": ["3 hours", "3.2 hours", "3.5 hours", "4 hours"],
+        "answer": "3.2 hours"
+      },
+      {
+        "subject": "Math",
+        "question": "Find the next term in the sequence: 3, 9, 27, 81, __?",
+        "options": ["162", "243", "324", "405"],
+        "answer": "243"
+      },
+      {
+        "subject": "Math",
+        "question": "The sum of the interior angles of a polygon is 900°. How many sides does the polygon have?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      },
+      {
+        "subject": "Science",
+        "question": "Which gas is responsible for the greenhouse effect?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+      },
+      {
+        "subject": "Science",
+        "question": "Which vitamin deficiency causes night blindness?",
+        "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+        "answer": "Vitamin A"
+      },
+      {
+        "subject": "Science",
+        "question": "What is the SI unit of force?",
+        "options": ["Watt", "Joule", "Newton", "Pascal"],
+        "answer": "Newton"
+      },
+      {
+        "subject": "Science",
+        "question": "Which part of the cell controls its activities?",
+        "options": ["Mitochondria", "Nucleus", "Ribosome", "Chloroplast"],
+        "answer": "Nucleus"
+      },
+      {
+        "subject": "Science",
+        "question": "What happens when iron reacts with oxygen and water?",
+        "options": ["It burns", "It rusts", "It dissolves", "It turns black"],
+        "answer": "It rusts"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Who was the first Mughal emperor of India?",
+        "options": ["Akbar", "Babur", "Shah Jahan", "Aurangzeb"],
+        "answer": "Babur"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which Indian state was known as the 'Land of Five Rivers'?",
+        "options": ["Rajasthan", "Gujarat", "Punjab", "Haryana"],
+        "answer": "Punjab"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Who was the first woman ruler of India?",
+        "options": ["Razia Sultana", "Jhansi Rani", "Indira Gandhi", "Meerabai"],
+        "answer": "Razia Sultana"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "What is the main reason for soil erosion?",
+        "options": ["Deforestation", "Rainfall", "Earthquakes", "Volcanic Eruptions"],
+        "answer": "Deforestation"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Who is known as the Father of the Indian Constitution?",
+        "options": ["Jawaharlal Nehru", "B. R. Ambedkar", "Sardar Patel", "Mahatma Gandhi"],
+        "answer": "B. R. Ambedkar"
+      },
+      {
+        "subject": "English",
+        "question": "Choose the correctly punctuated sentence:",
+        "options": ["Its a beautiful day!", "It’s a beautiful day!", "Its’ a beautiful day!", "Its a beautiful, day!"],
+        "answer": "It’s a beautiful day!"
+      },
+      {
+        "subject": "English",
+        "question": "Identify the sentence in passive voice:",
+        "options": ["She is writing a letter.", "A letter is being written by her.", "She writes a letter.", "She had written a letter."],
+        "answer": "A letter is being written by her."
+      },
+      {
+        "subject": "English",
+        "question": "Choose the synonym of 'Eloquent':",
+        "options": ["Talkative", "Fluent", "Rude", "Unclear"],
+        "answer": "Fluent"
+      },
+      {
+        "subject": "English",
+        "question": "Which word is the opposite of 'Persevere'?",
+        "options": ["Continue", "Give up", "Struggle", "Try harder"],
+        "answer": "Give up"
+      },
+      {
+        "subject": "English",
+        "question": "Identify the correct indirect speech: He said, 'I will go to the market.'",
+        "options": ["He said that he will go to the market.", "He said that he would go to the market.", "He said he go to the market.", "He says he go to the market."],
+        "answer": "He said that he would go to the market."
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which of these is NOT a programming language?",
+        "options": ["Python", "Java", "Windows", "C++"],
+        "answer": "Windows"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "What is the binary equivalent of the decimal number 10?",
+        "options": ["1010", "1100", "1001", "1110"],
+        "answer": "1010"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which of these is an output device?",
+        "options": ["Keyboard", "Monitor", "Mouse", "Scanner"],
+        "answer": "Monitor"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which company developed Windows operating system?",
+        "options": ["Google", "Apple", "Microsoft", "IBM"],
+        "answer": "Microsoft"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which of these storage devices has the highest capacity?",
+        "options": ["CD", "DVD", "USB Flash Drive", "Hard Disk"],
+        "answer": "Hard Disk"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Who discovered gravity?",
+        "options": ["Newton", "Einstein", "Galileo", "Darwin"],
+        "answer": "Newton"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which is the largest desert in the world?",
+        "options": ["Sahara", "Thar", "Kalahari", "Gobi"],
+        "answer": "Sahara"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which is the smallest continent?",
+        "options": ["Europe", "Asia", "Australia", "Antarctica"],
+        "answer": "Australia"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which is the longest river in the world?",
+        "options": ["Amazon", "Nile", "Ganges", "Mississippi"],
+        "answer": "Nile"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Jupiter"
+      }
+    ]
+  }
+  

@@ -1,0 +1,186 @@
+{
+  "class" : "4",
+    "quiz": [
+      {
+        "subject": "Maths",
+        "question": "What is the sum of 234 and 567?",
+        "options": ["791", "801", "851", "897"],
+        "answer": "801"
+      },
+      {
+        "subject": "Maths",
+        "question": "What is 12 multiplied by 8?",
+        "options": ["80", "92", "96", "108"],
+        "answer": "96"
+      },
+      {
+        "subject": "Maths",
+        "question": "If a square has a side of 5 cm, what is its perimeter?",
+        "options": ["10 cm", "20 cm", "25 cm", "30 cm"],
+        "answer": "20 cm"
+      },
+      {
+        "subject": "Maths",
+        "question": "Which is the largest three-digit number?",
+        "options": ["999", "1000", "998", "900"],
+        "answer": "999"
+      },
+      {
+        "subject": "Maths",
+        "question": "What is the place value of 7 in 7,548?",
+        "options": ["7", "70", "700", "7,000"],
+        "answer": "7,000"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which is the longest river in the world?",
+        "options": ["Amazon", "Ganges", "Nile", "Mississippi"],
+        "answer": "Nile"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which is the highest mountain in the world?",
+        "options": ["Mount Kilimanjaro", "Mount Everest", "K2", "Mount Fuji"],
+        "answer": "Mount Everest"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which continent is known as the 'Land of Kangaroos'?",
+        "options": ["Asia", "Africa", "Australia", "South America"],
+        "answer": "Australia"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which is the smallest country in the world?",
+        "options": ["Vatican City", "Monaco", "Maldives", "Liechtenstein"],
+        "answer": "Vatican City"
+      },
+      {
+        "subject": "Geography",
+        "question": "Which ocean is the deepest in the world?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "answer": "Pacific"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Who is known as the Father of India?",
+        "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Mahatma Gandhi", "Sardar Patel"],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which is the national animal of India?",
+        "options": ["Lion", "Tiger", "Elephant", "Leopard"],
+        "answer": "Tiger"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "How many players are there in a cricket team?",
+        "options": ["9", "10", "11", "12"],
+        "answer": "11"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which planet is called the 'Red Planet'?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "answer": "Mars"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "What is the national flower of India?",
+        "options": ["Rose", "Lotus", "Jasmine", "Sunflower"],
+        "answer": "Lotus"
+      },
+      {
+        "subject": "Computer",
+        "question": "Which part of a computer is known as the 'brain'?",
+        "options": ["Monitor", "CPU", "Keyboard", "Mouse"],
+        "answer": "CPU"
+      },
+      {
+        "subject": "Computer",
+        "question": "What does 'WWW' stand for in website addresses?",
+        "options": ["World Wide Web", "Wide Web World", "Web World Wide", "World Web Window"],
+        "answer": "World Wide Web"
+      },
+      {
+        "subject": "Computer",
+        "question": "Which key is used to start a new line in a document?",
+        "options": ["Spacebar", "Shift", "Enter", "Tab"],
+        "answer": "Enter"
+      },
+      {
+        "subject": "Computer",
+        "question": "Which of these is an input device?",
+        "options": ["Printer", "Monitor", "Mouse", "Speaker"],
+        "answer": "Mouse"
+      },
+      {
+        "subject": "Computer",
+        "question": "Which software is used to create a presentation?",
+        "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Paint"],
+        "answer": "MS PowerPoint"
+      },
+      {
+        "subject": "English",
+        "question": "What is the plural of 'child'?",
+        "options": ["Childs", "Children", "Childrens", "Childer"],
+        "answer": "Children"
+      },
+      {
+        "subject": "English",
+        "question": "Which word means the opposite of 'happy'?",
+        "options": ["Sad", "Angry", "Excited", "Glad"],
+        "answer": "Sad"
+      },
+      {
+        "subject": "English",
+        "question": "Which of these is a noun?",
+        "options": ["Run", "Jump", "Elephant", "Quickly"],
+        "answer": "Elephant"
+      },
+      {
+        "subject": "English",
+        "question": "Which sentence is correct?",
+        "options": ["She go to school.", "She goes to school.", "She going to school.", "She gone to school."],
+        "answer": "She goes to school."
+      },
+      {
+        "subject": "English",
+        "question": "Which of these is a vowel?",
+        "options": ["B", "C", "A", "D"],
+        "answer": "A"
+      },
+      {
+        "subject": "History",
+        "question": "Who was the first President of India?",
+        "options": ["Mahatma Gandhi", "Dr. Rajendra Prasad", "Jawaharlal Nehru", "Sardar Patel"],
+        "answer": "Dr. Rajendra Prasad"
+      },
+      {
+        "subject": "History",
+        "question": "Who built the Taj Mahal?",
+        "options": ["Shah Jahan", "Akbar", "Aurangzeb", "Humayun"],
+        "answer": "Shah Jahan"
+      },
+      {
+        "subject": "Science",
+        "question": "What gas do plants use to make food?",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Carbon dioxide"
+      },
+      {
+        "subject": "Science",
+        "question": "Which part of the human body pumps blood?",
+        "options": ["Lungs", "Brain", "Heart", "Liver"],
+        "answer": "Heart"
+      },
+      {
+        "subject": "Science",
+        "question": "Which of these is a renewable source of energy?",
+        "options": ["Coal", "Solar power", "Petrol", "Natural gas"],
+        "answer": "Solar power"
+      }
+    ]
+  }
+  

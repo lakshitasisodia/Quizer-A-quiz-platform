@@ -1,0 +1,143 @@
+{
+  "class": "3",
+  "quiz": [
+    {
+      "subject": "Maths",
+      "question": "What is 24 \u00f7 6?",
+      "options": ["2", "3", "4", "6"],
+      "answer": "4"
+    },
+    {
+      "subject": "Maths",
+      "question": "What is the Roman numeral for 50?",
+      "options": ["X", "L", "C", "V"],
+      "answer": "L"
+    },
+    {
+      "subject": "Maths",
+      "question": "If a clock shows 3:45, how many minutes are left until 5:00?",
+      "options": ["60", "75", "90", "105"],
+      "answer": "75"
+    },
+    {
+      "subject": "Maths",
+      "question": "What is the sum of the angles in a triangle?",
+      "options": ["90\u00b0", "120\u00b0", "180\u00b0", "360\u00b0"],
+      "answer": "180\u00b0"
+    },
+    {
+      "subject": "Maths",
+      "question": "Which fraction is the largest?",
+      "options": ["1/2", "3/4", "2/3", "1/4"],
+      "answer": "3/4"
+    },
+    {
+      "subject": "Geography",
+      "question": "Which is the smallest country in the world?",
+      "options": ["Monaco", "Vatican City", "Malta", "Liechtenstein"],
+      "answer": "Vatican City"
+    },
+    {
+      "subject": "Geography",
+      "question": "Which is the longest river in India?",
+      "options": ["Brahmaputra", "Ganga", "Yamuna", "Godavari"],
+      "answer": "Ganga"
+    },
+    {
+      "subject": "Geography",
+      "question": "What is the capital of France?",
+      "options": ["Rome", "Berlin", "Paris", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "subject": "Geography",
+      "question": "Which desert is the largest in the world?",
+      "options": ["Sahara", "Gobi", "Kalahari", "Thar"],
+      "answer": "Sahara"
+    },
+    {
+      "subject": "Geography",
+      "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+      "options": ["Punjab", "Haryana", "Uttar Pradesh", "Bihar"],
+      "answer": "Punjab"
+    },
+    {
+      "subject": "General Knowledge",
+      "question": "How many months have 31 days?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "subject": "General Knowledge",
+      "question": "Who wrote the national anthem of India?",
+      "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Subhash Chandra Bose", "Sarojini Naidu"],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "subject": "General Knowledge",
+      "question": "What is the national game of India?",
+      "options": ["Cricket", "Football", "Hockey", "Kabaddi"],
+      "answer": "Hockey"
+    },
+    {
+      "subject": "General Knowledge",
+      "question": "Which animal is known as the \u2018Ship of the Desert\u2019?",
+      "options": ["Elephant", "Horse", "Camel", "Kangaroo"],
+      "answer": "Camel"
+    },
+    {
+      "subject": "Computer",
+      "question": "Which key is used to delete text from right to left?",
+      "options": ["Enter", "Spacebar", "Backspace", "Shift"],
+      "answer": "Backspace"
+    },
+    {
+      "subject": "Computer",
+      "question": "What does CPU stand for?",
+      "options": ["Central Processing Unit", "Central Power Unit", "Central Performance Unit", "Control Processing Unit"],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "subject": "English",
+      "question": "Which is a collective noun?",
+      "options": ["Dog", "Flock", "Run", "Big"],
+      "answer": "Flock"
+    },
+    {
+      "subject": "English",
+      "question": "Choose the correct past tense of 'eat'.",
+      "options": ["Eat", "Ate", "Eaten", "Eats"],
+      "answer": "Ate"
+    },
+    {
+      "subject": "English",
+      "question": "Which is a synonym for \u2018happy\u2019?",
+      "options": ["Sad", "Joyful", "Angry", "Lonely"],
+      "answer": "Joyful"
+    },
+    {
+      "subject": "Science",
+      "question": "What is the process by which plants make their food?",
+      "options": ["Respiration", "Photosynthesis", "Digestion", "Evaporation"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "subject": "Science",
+      "question": "Which gas do plants release during photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Oxygen"
+    },
+    {
+      "subject": "Science",
+      "question": "What type of energy do we get from the Sun?",
+      "options": ["Wind energy", "Solar energy", "Hydro energy", "Nuclear energy"],
+      "answer": "Solar energy"
+    },
+    {
+      "subject": "Science",
+      "question": "Which sense organ helps us to feel objects?",
+      "options": ["Eyes", "Ears", "Nose", "Skin"],
+      "answer": "Skin"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+    "class": "10",
+    "quiz": [
+      {
+        "subject": "Math",
+        "question": "If one root of the quadratic equation 3x² + px + 6 = 0 is -2, find the value of p.",
+        "options": ["6", "-6", "4", "-4"],
+        "answer": "6"
+      },
+      {
+        "subject": "Math",
+        "question": "The sum of the first n terms of an AP is given by S_n = 5n² + 3n. Find its first term.",
+        "options": ["5", "3", "8", "None of these"],
+        "answer": "8"
+      },
+      {
+        "subject": "Math",
+        "question": "Find the coordinates of the centroid of a triangle with vertices A(1, 2), B(3, 4), and C(5, 6).",
+        "options": ["(2, 3)", "(3, 4)", "(3, 4)", "(3, 5)"],
+        "answer": "(3, 4)"
+      },
+      {
+        "subject": "Math",
+        "question": "If tan A = √3, what is the value of sin A + cos A?",
+        "options": ["2", "√3", "2√3/3", "1"],
+        "answer": "2√3/3"
+      },
+      {
+        "subject": "Math",
+        "question": "Find the distance between the points (3, 4) and (-1, 2).",
+        "options": ["5", "√20", "2√5", "4"],
+        "answer": "2√5"
+      },
+      {
+        "subject": "Science",
+        "question": "Which element has the highest electronegativity?",
+        "options": ["Oxygen", "Fluorine", "Chlorine", "Nitrogen"],
+        "answer": "Fluorine"
+      },
+      {
+        "subject": "Science",
+        "question": "The resistance of a wire is R. If its length is doubled and its diameter is halved, its new resistance will be:",
+        "options": ["R", "4R", "2R", "8R"],
+        "answer": "8R"
+      },
+      {
+        "subject": "Science",
+        "question": "Which reaction represents nuclear fission?",
+        "options": [
+          "²³⁵U + neutron → Ba + Kr + neutrons",
+          "²H + ³H → ⁴He + neutron",
+          "C + O₂ → CO₂",
+          "H₂ + Cl₂ → 2HCl"
+        ],
+        "answer": "²³⁵U + neutron → Ba + Kr + neutrons"
+      },
+      {
+        "subject": "Science",
+        "question": "Which hormone regulates blood sugar levels?",
+        "options": ["Adrenaline", "Glucagon", "Insulin", "Thyroxine"],
+        "answer": "Insulin"
+      },
+      {
+        "subject": "Science",
+        "question": "In which part of the nephron does filtration take place?",
+        "options": ["Loop of Henle", "Glomerulus", "Collecting duct", "Ureter"],
+        "answer": "Glomerulus"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Who wrote the book 'Discovery of India'?",
+        "options": ["Mahatma Gandhi", "B.R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel"],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which country was first to adopt democracy?",
+        "options": ["India", "USA", "Greece", "France"],
+        "answer": "Greece"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which of the following revolutions influenced the Indian freedom struggle the most?",
+        "options": ["Russian Revolution", "French Revolution", "American Revolution", "Chinese Revolution"],
+        "answer": "French Revolution"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which fundamental right prohibits human trafficking in India?",
+        "options": ["Right to Freedom", "Right to Equality", "Right against Exploitation", "Cultural and Educational Rights"],
+        "answer": "Right against Exploitation"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which is the largest tributary of the Ganga?",
+        "options": ["Yamuna", "Son", "Kosi", "Gandak"],
+        "answer": "Yamuna"
+      },
+      {
+        "subject": "English",
+        "question": "Choose the correct passive voice: 'The teacher praised the student.'",
+        "options": [
+          "The student was praised by the teacher.",
+          "The student has been praised by the teacher.",
+          "The student is praised by the teacher.",
+          "The student was being praised by the teacher."
+        ],
+        "answer": "The student was praised by the teacher."
+      },
+      {
+        "subject": "English",
+        "question": "Identify the correct indirect speech: 'She said, \"I have completed the work.\"'",
+        "options": [
+          "She said that she completed the work.",
+          "She said that she has completed the work.",
+          "She said that she had completed the work.",
+          "She said that she was completing the work."
+        ],
+        "answer": "She said that she had completed the work."
+      },
+      {
+        "subject": "English",
+        "question": "Choose the correct option: 'He is not only intelligent ____ also hardworking.'",
+        "options": ["but", "and", "or", "so"],
+        "answer": "but"
+      },
+      {
+        "subject": "English",
+        "question": "What is the synonym of 'ephemeral'?",
+        "options": ["Eternal", "Temporary", "Massive", "Confusing"],
+        "answer": "Temporary"
+      },
+      {
+        "subject": "English",
+        "question": "Which sentence is correct?",
+        "options": [
+          "She did not knew the answer.",
+          "She did not know the answer.",
+          "She does not knew the answer.",
+          "She does not knows the answer."
+        ],
+        "answer": "She did not know the answer."
+      },
+      {
+        "subject": "Computer Science",
+        "question": "What does 'www' stand for?",
+        "options": [
+          "World Wide Web",
+          "World Wireless Web",
+          "Wide Web World",
+          "Web Wide World"
+        ],
+        "answer": "World Wide Web"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which data structure uses LIFO (Last In, First Out)?",
+        "options": ["Queue", "Stack", "Array", "Linked List"],
+        "answer": "Stack"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "What is the default port number for HTTP?",
+        "options": ["80", "443", "8080", "21"],
+        "answer": "80"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which of the following is a binary number?",
+        "options": ["1010", "2301", "5A9C", "G123"],
+        "answer": "1010"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which of the following is NOT an operating system?",
+        "options": ["Linux", "Windows", "Python", "MacOS"],
+        "answer": "Python"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which is the largest desert in the world?",
+        "options": ["Sahara", "Gobi", "Kalahari", "Antarctica"],
+        "answer": "Antarctica"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which is the longest river in the world?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer": "Nile"
+      }
+    ]
+  }
+  

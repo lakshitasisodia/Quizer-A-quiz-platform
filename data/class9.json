@@ -1,0 +1,187 @@
+{
+    "class": "9",
+    "quiz": [
+      {
+        "subject": "Math",
+        "question": "If (x - 3) is a factor of x³ - 7x² + 14x - 8, find the other two factors.",
+        "options": ["(x - 2)(x - 4)", "(x - 1)(x - 5)", "(x - 2)(x - 3)", "(x - 1)(x - 4)"],
+        "answer": "(x - 2)(x - 4)"
+      },
+      {
+        "subject": "Math",
+        "question": "If sin A = 3/5, what is the value of cos A?",
+        "options": ["4/5", "3/4", "5/3", "1/2"],
+        "answer": "4/5"
+      },
+      {
+        "subject": "Math",
+        "question": "The sum of the roots of the quadratic equation 2x² - 7x + 3 = 0 is:",
+        "options": ["-7/2", "7/2", "3/2", "2/7"],
+        "answer": "7/2"
+      },
+      {
+        "subject": "Math",
+        "question": "What is the remainder when x³ - 6x² + 11x - 6 is divided by (x - 2)?",
+        "options": ["0", "1", "2", "-1"],
+        "answer": "0"
+      },
+      {
+        "subject": "Math",
+        "question": "The diagonal of a rectangle is 10 cm, and its width is 6 cm. Find its length.",
+        "options": ["6 cm", "8 cm", "10 cm", "12 cm"],
+        "answer": "8 cm"
+      },
+      {
+        "subject": "Science",
+        "question": "Which of the following is NOT a characteristic of chemical reactions?",
+        "options": ["Change in color", "Evolution of gas", "Formation of precipitate", "Change in mass"],
+        "answer": "Change in mass"
+      },
+      {
+        "subject": "Science",
+        "question": "A concave mirror has a focal length of 20 cm. Where should an object be placed to form a real, inverted image of the same size?",
+        "options": ["At the focus", "At twice the focal length", "Between focus and mirror", "Beyond twice the focal length"],
+        "answer": "At twice the focal length"
+      },
+      {
+        "subject": "Science",
+        "question": "Which of the following is NOT a greenhouse gas?",
+        "options": ["Carbon dioxide", "Methane", "Oxygen", "Water vapor"],
+        "answer": "Oxygen"
+      },
+      {
+        "subject": "Science",
+        "question": "The acceleration due to gravity on the Moon is about:",
+        "options": ["1.62 m/s²", "9.8 m/s²", "4.9 m/s²", "0.98 m/s²"],
+        "answer": "1.62 m/s²"
+      },
+      {
+        "subject": "Science",
+        "question": "Which law states that mass can neither be created nor destroyed in a chemical reaction?",
+        "options": ["Law of Multiple Proportions", "Law of Conservation of Mass", "Avogadro's Law", "Boyle’s Law"],
+        "answer": "Law of Conservation of Mass"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which treaty ended World War I?",
+        "options": ["Treaty of Versailles", "Treaty of Vienna", "Treaty of Paris", "Treaty of Tordesillas"],
+        "answer": "Treaty of Versailles"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Who is known as the 'Father of the Indian Constitution'?",
+        "options": ["Jawaharlal Nehru", "Sardar Patel", "B.R. Ambedkar", "Mahatma Gandhi"],
+        "answer": "B.R. Ambedkar"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which is the longest written constitution in the world?",
+        "options": ["USA", "India", "France", "UK"],
+        "answer": "India"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "What was the main reason for the fall of the Mughal Empire?",
+        "options": ["Invasions by British", "Weak successors", "Poor economy", "Religious conflicts"],
+        "answer": "Weak successors"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Who discovered the sea route to India in 1498?",
+        "options": ["Marco Polo", "Christopher Columbus", "Vasco da Gama", "Ferdinand Magellan"],
+        "answer": "Vasco da Gama"
+      },
+      {
+        "subject": "English",
+        "question": "Identify the sentence with the correct use of a relative clause:",
+        "options": [
+          "The book who I borrowed was interesting.",
+          "The book, which I borrowed, was interesting.",
+          "The book which I borrowed was interesting.",
+          "The book whom I borrowed was interesting."
+        ],
+        "answer": "The book, which I borrowed, was interesting."
+      },
+      {
+        "subject": "English",
+        "question": "Choose the correct indirect speech: She said, 'I am reading a book.'",
+        "options": [
+          "She said that she is reading a book.",
+          "She said that she was reading a book.",
+          "She said that she has been reading a book.",
+          "She said that she read a book."
+        ],
+        "answer": "She said that she was reading a book."
+      },
+      {
+        "subject": "English",
+        "question": "Choose the grammatically correct sentence:",
+        "options": [
+          "Neither of the boys have done their homework.",
+          "Neither of the boys has done his homework.",
+          "Neither of the boys has done their homework.",
+          "Neither of the boys have done his homework."
+        ],
+        "answer": "Neither of the boys has done his homework."
+      },
+      {
+        "subject": "English",
+        "question": "What is the meaning of 'to turn a blind eye'?",
+        "options": [
+          "To ignore something", 
+          "To stare at something", 
+          "To look for a solution", 
+          "To make fun of someone"
+        ],
+        "answer": "To ignore something"
+      },
+      {
+        "subject": "English",
+        "question": "Identify the correct word: 'The _______ of the investigation was shocking.'",
+        "options": ["effect", "affect", "result", "consequence"],
+        "answer": "result"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which of the following is an example of a high-level programming language?",
+        "options": ["Assembly", "Machine Code", "Python", "Binary"],
+        "answer": "Python"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "What is the full form of CPU?",
+        "options": ["Central Processing Unit", "Control Processing Unit", "Central Power Unit", "Central Program Unit"],
+        "answer": "Central Processing Unit"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "What does HTML stand for?",
+        "options": [
+          "Hyperlink Text Markup Language", 
+          "Hypertext Transfer Markup Language", 
+          "Hypertext Markup Language", 
+          "High-level Text Marking Language"
+        ],
+        "answer": "Hypertext Markup Language"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which type of memory is volatile?",
+        "options": ["ROM", "Flash Memory", "RAM", "Hard Disk"],
+        "answer": "RAM"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which country has the most time zones?",
+        "options": ["Russia", "USA", "France", "China"],
+        "answer": "France"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Who was the first female Prime Minister of India?",
+        "options": ["Sonia Gandhi", "Indira Gandhi", "Sarojini Naidu", "Pratibha Patil"],
+        "answer": "Indira Gandhi"
+      }
+    ]
+  }
+  

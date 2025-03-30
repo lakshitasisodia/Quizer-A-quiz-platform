@@ -1,0 +1,186 @@
+{
+    "class": "8",
+    "quiz": [
+      {
+        "subject": "Math",
+        "question": "If x² - 5x + 6 = 0, what are the roots of the equation?",
+        "options": ["2 and 3", "-2 and -3", "1 and 6", "-1 and -6"],
+        "answer": "2 and 3"
+      },
+      {
+        "subject": "Math",
+        "question": "A train travels 60 km in 45 minutes. What is its speed in m/s?",
+        "options": ["20 m/s", "22.22 m/s", "25 m/s", "30 m/s"],
+        "answer": "22.22 m/s"
+      },
+      {
+        "subject": "Math",
+        "question": "If a number is increased by 20% and then decreased by 20%, what is the net change?",
+        "options": ["No change", "4% decrease", "4% increase", "8% decrease"],
+        "answer": "4% decrease"
+      },
+      {
+        "subject": "Math",
+        "question": "Find the next term in the sequence: 2, 6, 12, 20, 30, __?",
+        "options": ["36", "40", "42", "48"],
+        "answer": "42"
+      },
+      {
+        "subject": "Math",
+        "question": "If sin θ = 3/5, what is cos θ?",
+        "options": ["4/5", "3/4", "5/3", "1/2"],
+        "answer": "4/5"
+      },
+      {
+        "subject": "Science",
+        "question": "Which fundamental force is responsible for holding atomic nuclei together?",
+        "options": ["Gravitational Force", "Electromagnetic Force", "Weak Nuclear Force", "Strong Nuclear Force"],
+        "answer": "Strong Nuclear Force"
+      },
+      {
+        "subject": "Science",
+        "question": "Which part of the human brain is responsible for reasoning and decision-making?",
+        "options": ["Cerebrum", "Cerebellum", "Medulla Oblongata", "Hypothalamus"],
+        "answer": "Cerebrum"
+      },
+      {
+        "subject": "Science",
+        "question": "Which law states that the total energy in a system remains constant?",
+        "options": ["Newton's First Law", "Law of Conservation of Energy", "Boyle's Law", "Ohm’s Law"],
+        "answer": "Law of Conservation of Energy"
+      },
+      {
+        "subject": "Science",
+        "question": "Which gas is produced when a metal reacts with an acid?",
+        "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+        "answer": "Hydrogen"
+      },
+      {
+        "subject": "Science",
+        "question": "What is the structural and functional unit of the kidney?",
+        "options": ["Neuron", "Alveolus", "Nephron", "Villus"],
+        "answer": "Nephron"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which battle marked the beginning of British rule in India?",
+        "options": ["Battle of Panipat", "Battle of Plassey", "Battle of Buxar", "First Anglo-Mysore War"],
+        "answer": "Battle of Plassey"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Who wrote the book 'The Discovery of India'?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "B. R. Ambedkar", "Subhash Chandra Bose"],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which country follows a one-party system?",
+        "options": ["USA", "China", "UK", "India"],
+        "answer": "China"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "What was the primary objective of the Non-Cooperation Movement?",
+        "options": ["Industrial Development", "Complete Independence", "Abolition of Slavery", "Removal of Untouchability"],
+        "answer": "Complete Independence"
+      },
+      {
+        "subject": "Social Studies",
+        "question": "Which Indian state has the largest number of Lok Sabha seats?",
+        "options": ["Maharashtra", "Bihar", "Uttar Pradesh", "West Bengal"],
+        "answer": "Uttar Pradesh"
+      },
+      {
+        "subject": "English",
+        "question": "Identify the sentence with correct subject-verb agreement:",
+        "options": ["The team are playing well.", "The team is playing well.", "The team play well.", "The team was play well."],
+        "answer": "The team is playing well."
+      },
+      {
+        "subject": "English",
+        "question": "Choose the correctly punctuated sentence:",
+        "options": ["Let's eat, Grandma!", "Lets eat Grandma!", "Let's eat Grandma!", "Let’s eat; Grandma!"],
+        "answer": "Let's eat, Grandma!"
+      },
+      {
+        "subject": "English",
+        "question": "Which word means the opposite of 'ephemeral'?",
+        "options": ["Short-lived", "Permanent", "Brief", "Fleeting"],
+        "answer": "Permanent"
+      },
+      {
+        "subject": "English",
+        "question": "Choose the correct passive voice form: 'She wrote a novel.'",
+        "options": ["A novel wrote her.", "A novel was written by her.", "She was written by a novel.", "A novel was wrote by her."],
+        "answer": "A novel was written by her."
+      },
+      {
+        "subject": "English",
+        "question": "Which of the following is a complex sentence?",
+        "options": ["She ran fast.", "She ran and won the race.", "Although she was tired, she won the race.", "She won the race!"],
+        "answer": "Although she was tired, she won the race."
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which sorting algorithm has the best time complexity?",
+        "options": ["Bubble Sort", "Insertion Sort", "Merge Sort", "Selection Sort"],
+        "answer": "Merge Sort"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "What does 'DNS' stand for in networking?",
+        "options": ["Data Network System", "Domain Name System", "Digital Network Security", "Dynamic Name Selection"],
+        "answer": "Domain Name System"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which of the following is NOT an operating system?",
+        "options": ["Windows", "Linux", "Python", "MacOS"],
+        "answer": "Python"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which logic gate outputs true only if both inputs are true?",
+        "options": ["AND", "OR", "XOR", "NAND"],
+        "answer": "AND"
+      },
+      {
+        "subject": "Computer Science",
+        "question": "Which type of memory is non-volatile?",
+        "options": ["RAM", "Cache", "ROM", "Register"],
+        "answer": "ROM"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Who discovered penicillin?",
+        "options": ["Alexander Fleming", "Louis Pasteur", "Marie Curie", "Robert Koch"],
+        "answer": "Alexander Fleming"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which is the longest bone in the human body?",
+        "options": ["Humerus", "Tibia", "Femur", "Fibula"],
+        "answer": "Femur"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Who was the first President of the USA?",
+        "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+        "answer": "George Washington"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "Which is the only planet in our solar system that rotates on its side?",
+        "options": ["Earth", "Mars", "Venus", "Uranus"],
+        "answer": "Uranus"
+      },
+      {
+        "subject": "General Knowledge",
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+        "answer": "Ottawa"
+      }
+    ]
+  }
+  
